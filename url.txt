@@ -1,2 +1,1 @@
-Dashboard belum di-deploy. Setelah deploy ke Streamlit Community Cloud, ganti isi berkas ini dengan tautan dashboard Anda, contoh:
-https://nama-app-anda.streamlit.app/
+https://j9rhxtpnzad5grmxyx68gg.streamlit.app/
